@@ -115,7 +115,7 @@ Este repositório é dedicado ao mobile, desenvolvido em **React Native e TypeSc
 
 - Repositório do Backend: [https://github.com/filipe-santana-da-silva/pizzaria-backend](https://github.com/filipe-santana-da-silva/pizzaria-backend)
 - Repositório do Frontend Web: [https://github.com/filipe-santana-da-silva/pizzaria-frontend](https://github.com/filipe-santana-da-silva/pizzaria-frontend)
-- Download do App (Expo EAS): [https://expo.dev/accounts/filipe49/projects/mobile](https://expo.dev/accounts/filipe49/projects/mobile)
+- Download do App (Expo EAS): [https://expo.dev/accounts/filipe49/projects/mobile/builds/c9fec104-5cae-4565-9d9e-8eb3dd7de7b9](https://expo.dev/accounts/filipe49/projects/mobile/builds/c9fec104-5cae-4565-9d9e-8eb3dd7de7b9)
 
 ## Contato
 

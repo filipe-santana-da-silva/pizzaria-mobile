@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; text-align: center;">
     <h1>Sujeito Pizza - Mobile</h1>
-    <img style="max-width: 1024px; margin: auto;" src="assets/github/capa-projeto.png" alt="capa do projeto">
+    <img style="max-width: 1024px; margin: auto;" src="assets/capa-projeto.png" alt="capa do projeto">
 </div>
 
 ## Sumário
@@ -65,23 +65,23 @@ Este repositório é dedicado ao mobile, desenvolvido em **React Native e TypeSc
 
 ### Login 
 
-<img src="assets/github/login.jpg" alt="detalhes do pedido" width="280">
+<img src="assets/login.jpg" alt="detalhes do pedido" width="280">
 
 ### Abrir Mesa
 
-<img src="assets/github/abri-mesa.jpg" alt="detalhes do pedido" width="280">
+<img src="assets/abri-mesa.jpg" alt="detalhes do pedido" width="280">
 
 ### Items Pedido (Vazio)
 
-<img src="assets/github/items-pedido-vazio.jpg" alt="detalhes do pedido" width="280">
+<img src="assets/items-pedido-vazio.jpg" alt="detalhes do pedido" width="280">
 
 ### Items Pedido
 
-<img src="assets/github/items-pedido.jpg" alt="detalhes do pedido" width="280">
+<img src="assets/items-pedido.jpg" alt="detalhes do pedido" width="280">
 
 ### Finalização
 
-<img src="assets/github/finalizacao-pedido.jpg" alt="detalhes do pedido" width="280">
+<img src="assets/finalizacao-pedido.jpg" alt="detalhes do pedido" width="280">
 
 ## Como Executar o Projeto
 
